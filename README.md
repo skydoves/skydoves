@@ -8,8 +8,11 @@
 <a href="https://androiddev.social/@skydoves"><img alt="Mastodon" src="https://skydoves.github.io/badges/mastodon.svg"/></a>
 <a href="https://www.youtube.com/@skydoves"><img alt="YouTube" src="https://skydoves.github.io/badges/dove-youtube.svg"/></a>
 <a href="https://github.com/doveletter"><img alt="Profile" src="https://skydoves.github.io/badges/dove-letter.svg"/></a></br></br>
-<a href="https://github.com/skydoves"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=skydoves&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
 </p>
+
+<a href="https://github.com/doveletter">
+<img src="https://github.com/user-attachments/assets/3ecd2a7b-9713-40cd-8817-fa568271cefa" width="13%" align="right"/>
+</a>
 
 ## 🕊️ Dove Letter
 
