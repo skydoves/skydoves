@@ -22,7 +22,7 @@ If you're eager to dive deeper into Kotlin and Android, explore [Dove Letter](ht
 <img src="https://github.com/user-attachments/assets/e014ce01-3461-40af-bb2a-eb44f3f55f36" width="13%" align="right"/>
 </a>
 
-## 📘 Manifest Android Interview Book
+## 📘 Manifest Android Interview Book & Course
 
 [Manifest Android Interview](https://www.android.skydoves.me/) is a comprehensive guide designed to enhance your Android development expertise through 108 interview questions with detailed answers, 162 additional practical questions, and 50+ "Pro Tips for Mastery" sections. The interview questions primarily focus on Android development—including the Framework, UI, Jetpack Libraries, and Business Logic, as well as Jetpack Compose, covering Fundamentals, Runtime, and UI. The [Course - Manifest Android Interview](https://leanpub.com/c/manifest-android-interview-courses) with over 250 quiz questions, 370 practical and follow-up questions with full answers, and 60+ pro tips, this course helps you sharpen skills, understand the why, and prepare for real-world technical challenges for Android & Compose; it challenges you to prove you've mastered it and earn a certificate.
 
