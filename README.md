@@ -24,7 +24,7 @@ If you're eager to dive deeper into Kotlin and Android, explore [Dove Letter](ht
 
 ## 📗 Jetpack Compose Mechanisms Book
 
-[Jetpack Compose Mechanisms](https://howcomposeworks.com/) takes you from "how to use Compose" into "how Compose actually works," tracing the AOSP source line by line through the compiler, runtime, and UI layers beneath every Composable, with practical, production-ready examples from the author's own Compose tooling and libraries. It then ties all three layers together into deep, real-world performance tuning, from stability inference to the skip decision. Fully updated for Kotlin 2.4.0 and Compose Compiler 2.4.0.
+[Jetpack Compose Mechanisms](https://howcomposeworks.com/) takes you from "how to use Compose" into "how Compose actually works," tracing the AOSP source line by line through the compiler, runtime, and UI layers beneath every Composable, with practical, production-ready examples from the author's own Compose tooling and libraries. It then ties all three layers together into deep, real-world performance tuning, from stability inference to the skip decision. Fully updated for Kotlin 2.4.0 and Compose Compiler 2.4.0. [The Course: Jetpack Compose Mechanisms](https://doveletter.dev/course/compose) with 120+ practical questions with full answers and 240+ interactive assessments, +880 PDF page equivalents will enhance your Compose internals skills, and you can claim the certificate at the end.
 
 <a href="https://android.skydoves.me/">
 <img src="https://github.com/user-attachments/assets/e014ce01-3461-40af-bb2a-eb44f3f55f36" width="13%" align="right"/>
